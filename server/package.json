@@ -1,0 +1,27 @@
+{
+  "name": "efishent",
+  "version": "1.0.0",
+  "description": "",
+  "main": "javascript.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anthony-Furjanic/eFishent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Anthony-Furjanic/eFishent/issues"
+  },
+  "homepage": "https://github.com/Anthony-Furjanic/eFishent#readme",
+  "dependencies": {
+    "connect-session-sequelize": "^7.1.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "sequelize": "^6.29.0"
+  }
+}
